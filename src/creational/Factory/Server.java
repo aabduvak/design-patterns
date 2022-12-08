@@ -1,4 +1,4 @@
-package factory;
+package creational.Factory;
 
 public class Server extends Computer{
 	private String RAM;

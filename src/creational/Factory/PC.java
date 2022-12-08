@@ -1,4 +1,4 @@
-package factory;
+package creational.Factory;
 
 public class PC extends Computer{
 	private String RAM;

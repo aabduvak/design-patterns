@@ -1,4 +1,4 @@
-package factory;
+package creational.Factory;
 
 /**
  * Factory design pattern is used when we have a superclass with multiple sub-classes and 

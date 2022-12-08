@@ -1,4 +1,4 @@
-package factory;
+package creational.Factory;
 
 public abstract class Computer {
  	public abstract String getRAM();
